@@ -124,7 +124,6 @@ Unlox-AI-Internship/
 ## 🧠 Learning Goals
 
 Throughout this internship, I aim to develop practical experience in:
-
 * Artificial Intelligence
 * Data Analysis
 * Data Cleaning & Preprocessing
